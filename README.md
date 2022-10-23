@@ -10,7 +10,7 @@ Pychain Ledger Structure provided to make ceratin updates:
 ### Step1:
 Create class Record(sender, receiver, amount),
 Create another class Block hashing function inherit class Record,
-lastly chain class clalled Pychain: put class Block into List and set hashing difficulty to  4 zeros by keep incrementing the nonce witch miners is looking for 
+lastly chain class called Pychain: put class Block into List and set hashing difficulty to  4 zeros by keep incrementing the nonce which miners is looking for 
 nonce and calculated hash that eplaines proof of work mechanism.
 
 
